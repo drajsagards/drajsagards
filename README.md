@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on Data science realated projects
 - 📫 How to reach me drajsagards@gmail.com
-- 😊
 
 <!---
 drajsagards/drajsagards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
